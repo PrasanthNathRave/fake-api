@@ -29,14 +29,13 @@
     "name": "typicode"
   },
   "sampleJson" : {
- "data": {
    "year": "2019",
    "month": "September",
    "organisationId": "9d5c117f-18f0-452c-b32b-d58b4859c295",
    "resourceId": "c1c0561d-ce4c-4a95-b75c-1f99185a787b",
    "resourceShortName": "MOC",
    "resourceName": "Michael O'Connor",
-   "userName" : "moconner@company.co.uk"
+   "userName" : "moconner@company.co.uk",
    "content": [{
      "name": "Sunday",
      "date": "2019-09-22T00:00:00Z",
@@ -46,7 +45,6 @@
     "supportingPersonInd":false,
      "expired": false,
      "created": false
-   }
+   }]
   }
-
 }
